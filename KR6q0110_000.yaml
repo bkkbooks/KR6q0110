@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0110/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳法寶紀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2838.xml
+    old_id: T85n2838
+hash: sha256:b384774c7047301356e4d33e327a17807a822a034d42ab14391551f87b0a1279
