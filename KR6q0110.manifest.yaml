@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6q0110_000.yaml, hash: 'sha256:b384774c7047301356e4d33e327a17807a822a034d42ab14391551f87b0a1279'}
-  - {seq: 1, filename: KR6q0110_001.yaml, hash: 'sha256:63b0d4f7857f67cf049f7197ee7d597581a3c73481fd905f7eb5c35d92ea0a87'}
+  - {seq: 1, filename: KR6q0110_001.yaml, hash: 'sha256:dfd62779ffd77655f35cc3b949e9befcef8e94ac450fea3f29f548e0200d7969'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0110_001.markers.yaml, hash: 'sha256:d26b563d62ee0547b3e5071a8283ccc408edfd1ca06d3eaac07e96791a2bfb1a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0110_000.markers.yaml, hash: 'sha256:e228861f00b159e542113c49f8410882bb634f8a9e582499fdf728d4bd59b041'}
+  - {seq: 1, role: markers, filename: assets/KR6q0110_001.markers.yaml, hash: 'sha256:a3c5e80d3944354be9d4f8fb04e8a2f443d7a8df932f6482f35aa5d2f7500576'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 傳法寶紀并序
   type: juan
   level: 1
-hash: sha256:01430bb3c886c9a91cf81e4cbb5b9d1423c62d8cd848b5d6d215471ec88646ae
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8a347c886a9981bb971d6e3ef99fb168b81bfa237a2e072e7d59cbf27a750f56
 editions:
 - short: T
